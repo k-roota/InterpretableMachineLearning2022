@@ -1,2 +1,92 @@
-# InterpretableMachineLearning2022
-Lecture notes for 'Interpretable Machine Learning' at UoW. Summer semester 2021/2022
+# Interpretable Machine Learning 2022
+
+Lecture notes for 'Interpretable Machine Learning' at [UoW](https://usosweb.uw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazPrzedmiot&kod=1000-1M18WUM). Summer semester 2021/2022
+
+Slack for this course: *Will be added*
+
+XAI stories ebook: 
+- first edition https://pbiecek.github.io/xai_stories/, 
+- second edition https://pbiecek.github.io/xai_stories_2/
+
+# Introduction
+
+The course consists of lectures, computer labs and a project.
+
+The course is elective. The rules of passing may seem non-standard. Make sure that you understand them to avoid unpleasant consequences.
+I believe that one of the most important skills in building ML/XAI models is flexibility and a proactive approach to the problem. 
+In this course, the assessment criteria will strongly reward both flexibility and a proactive approach.
+
+# Design Principles
+
+The design of this course is based on four principles:
+
+- Mixing experiences during studies is good. It allows you to generate more ideas. Also, in mixed groups, we can improve our communication skills,
+- In XAI, the interface/esthetic of the solution is important. XAI, like earlier HCI (Human Computer Interaction), is on the borderline between technical, domain and cognitive aspects. Therefore, apart from the purely technical descriptions, the results must be grounded in the domain and are communicated aesthetically and legibly, 
+- communication of results is important. Both in science and business, it is very important to be able to present the results concisely and legibly. In this course, it should translate into the ability to describe one XAI story in the form of a short chapter/article.
+- It is worth doing useful things. Let's look for new applications for XAI methods discussed on typical predictive problems.
+
+
+# Meetings
+
+Plan for the summer semester 2021/2022. UoW classes are on Fridays. 
+
+* 2022-03-04  -- Introduction
+* 2022-03-11 	-- Break Down / SHAP
+* 2022-03-18 	-- LIME
+* 2022-03-25 	-- Ceteris Paribus profiles / Partial Dependence profiles
+* 2022-04-01 	
+* 2022-04-08 	-- Variable's importance
+* 2022-04-22 	-- Interactive Explanatory Model Analysis - how instance level methods complement each other
+* 2022-04-29 	-- Fairness or Model diagnostic plots.
+* 2022-05-04 	
+* 2022-05-13 	-- TCAV / ShapleyFlow 
+* 2022-05-20 	-- explanations specific to vision models
+* 2022-05-27 	-- students presentations
+* 2022-06-03 	-- students presentations
+* 2022-06-10 	
+
+# How to get a good grade
+
+From different activities, you can get from 0 to 100 points. 51 points are needed to pass this course.
+
+Grades:
+
+* 51-60: dst
+* 61-70: dst+
+* 71-80: db
+* 81-90: db+
+* 91-100: bdb
+
+
+There are three key components.
+
+Chapter in the 'XAI stories' [0-60 points]
+ - quality of trained predictive models [0-10 points]
+ - quality of dataset level explanations [0-10 points]
+ - quality of instance level explanations [0-10 points]
+ - quality of the charts/visuals/diagrams [0-10 points]
+ - the relevance of the example [0-10 points]
+ - presentation of key results during the final meeting [0-10 points]
+
+Presentation of a selected XAI related article [0-10 points]
+
+Home works [0-30 points]
+ - home work 1 for 0-5 points: Train a predictive model for selected ML problem (see issues). Submit knitr/notebook script to GitHub (directory Homeworks/H1/FirstnameLastname). **Deadline: TODO**
+ - [home work 2]  for 0-5 points. **Deadline: TODO**
+ - [home work 3]  for 0-5 points. **Deadline: TODO**
+ - [home work 4]  for 0-5 points. **Deadline: TODO**
+ - [home work 5]  for 0-5 points. **Deadline: TODO**
+ - [home work 6]  for 0-5 points. **Deadline: TODO**
+
+# Presentations
+
+Presentations can be prepared by one or two students. Each group should present a single XAI related paper (journal or conference). Each group should choose a different paper. Here are some suggestions.
+
+* Will be added soon
+
+# Literature
+
+The literature will be added on an ongoing basis. 
+
+* [Explanatory Model Analysis. Explore, Explain and Examine Predictive Models](https://pbiecek.github.io/ema/)
+* [Interpretable Machine Learning. A Guide for Making Black Box Models Explainable](https://christophm.github.io/interpretable-ml-book/)
