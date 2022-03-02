@@ -2,7 +2,7 @@
 
 Lecture notes for 'Interpretable Machine Learning' at [UoW](https://usosweb.uw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazPrzedmiot&kod=1000-1M18WUM). Summer semester 2021/2022
 
-Slack for this course: *Will be added*
+Slack for this course: [invite link](https://join.slack.com/t/newworkspace-mwo2770/shared_invite/zt-14l1n70dx-YUfKwpXpROFVUkl9BG8rbg)
 
 XAI stories ebook: 
 - first edition https://pbiecek.github.io/xai_stories/, 
@@ -31,10 +31,10 @@ The design of this course is based on four principles:
 Plan for the summer semester 2021/2022. UoW classes are on Fridays. 
 
 * 2022-03-04  -- Introduction
-* 2022-03-11 	-- Break Down / SHAP
-* 2022-03-18 	-- LIME
-* 2022-03-25 	-- Ceteris Paribus profiles / Partial Dependence profiles
-* 2022-04-01 	
+* 2022-03-11 	
+* 2022-03-18 	-- Break Down / SHAP
+* 2022-03-25 	-- LIME
+* 2022-04-01 	-- Ceteris Paribus profiles / Partial Dependence profiles
 * 2022-04-08 	-- Variable's importance
 * 2022-04-22 	-- Interactive Explanatory Model Analysis - how instance level methods complement each other
 * 2022-04-29 	-- Fairness or Model diagnostic plots.
