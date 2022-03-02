@@ -8,6 +8,10 @@ XAI stories ebook:
 - first edition https://pbiecek.github.io/xai_stories/, 
 - second edition https://pbiecek.github.io/xai_stories_2/
 
+Previous versions
+- https://github.com/pbiecek/InterpretableMachineLearning2021
+- https://github.com/pbiecek/InterpretableMachineLearning2020
+
 # Introduction
 
 The course consists of lectures, computer labs and a project.
