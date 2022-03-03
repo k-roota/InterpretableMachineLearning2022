@@ -2,6 +2,8 @@
 
 Lecture notes for 'Interpretable Machine Learning' at [UoW](https://usosweb.uw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazPrzedmiot&kod=1000-1M18WUM). Summer semester 2021/2022
 
+Short url: https://tinyurl.com/rml2022
+
 Slack for this course: [invite link](https://join.slack.com/t/newworkspace-mwo2770/shared_invite/zt-14l1n70dx-YUfKwpXpROFVUkl9BG8rbg)
 
 XAI stories ebook: 
