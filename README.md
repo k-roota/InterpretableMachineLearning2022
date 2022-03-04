@@ -77,8 +77,8 @@ Chapter in the 'XAI stories' [0-60 points]
 Presentation of a selected XAI related article [0-10 points]
 
 Home works [0-30 points]
- - home work 1 for 0-5 points: Train a predictive model for selected ML problem (see issues). Submit knitr/notebook script to GitHub (directory Homeworks/H1/FirstnameLastname). **Deadline: TODO**
- - [home work 2]  for 0-5 points. **Deadline: TODO**
+ - home work 1 for 0-5 points: Train a predictive model for selected ML problem. Submit knitr/notebook script to GitHub (directory Homeworks/H1/FirstnameLastname). **Deadline: 2022-02-10 EOD** https://github.com/MI2-Education/InterpretableMachineLearning2022/blob/main/Homeworks/HW1/README.md
+ - [home work 2]  for 0-5 points. **Deadline: TODO** 
  - [home work 3]  for 0-5 points. **Deadline: TODO**
  - [home work 4]  for 0-5 points. **Deadline: TODO**
  - [home work 5]  for 0-5 points. **Deadline: TODO**
