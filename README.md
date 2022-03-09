@@ -37,19 +37,19 @@ The design of this course is based on four principles:
 Plan for the summer semester 2021/2022. UoW classes are on Fridays. 
 
 * 2022-03-04  -- Introduction
-* 2022-03-11 	
-* 2022-03-18 	-- Break Down / SHAP
-* 2022-03-25 	-- LIME
-* 2022-04-01 	-- Ceteris Paribus profiles / Partial Dependence profiles
-* 2022-04-08 	-- Variable's importance
-* 2022-04-22 	-- Interactive Explanatory Model Analysis - how instance level methods complement each other
-* 2022-04-29 	-- Fairness or Model diagnostic plots.
-* 2022-05-04 	
-* 2022-05-13 	-- TCAV / ShapleyFlow 
-* 2022-05-20 	-- explanations specific to vision models
-* 2022-05-27 	-- students presentations
-* 2022-06-03 	-- students presentations
-* 2022-06-10 	
+* 2022-03-11  -- Project kick-off (online, link in USOS email) 11:00 - 13:00
+* 2022-03-18  -- Break Down / SHAP
+* 2022-03-25  -- LIME
+* 2022-04-01  -- Ceteris Paribus profiles / Partial Dependence profiles
+* 2022-04-08  -- Variable's importance
+* 2022-04-22  -- Interactive Explanatory Model Analysis - how instance level methods complement each other
+* 2022-04-29  -- Fairness or Model diagnostic plots.
+* 2022-05-04    
+* 2022-05-13  -- TCAV / ShapleyFlow 
+* 2022-05-20  -- explanations specific to vision models
+* 2022-05-27  -- students presentations
+* 2022-06-03  -- students presentations
+* 2022-06-10    
 
 # How to get a good grade
 
