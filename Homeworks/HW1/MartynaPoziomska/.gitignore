@@ -1,0 +1,5 @@
+data/large_files.zip
+.ipynb_checkpoints/
+braindecode_lazy/
+data/eval/
+data/mean_train_covs.npy
