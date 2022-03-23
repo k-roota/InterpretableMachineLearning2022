@@ -37,7 +37,7 @@ if __name__ == '__main__':
     for prediction_no in tqdm(interesting_predictions, desc="3 predictions viz gen"):
         explanation = xgboost_explainer.predict_parts(data_test.loc[[prediction_no]], type="shap")
         fig = explanation.plot(show=False)
-        fig.write_image(f"figures/shap_prediction{prediction_no}.png")
+        fig.write_image(f"resources/shap_prediction{prediction_no}.png")
 
     # generate SHAP explanation with different "highest importance" features (find them first)
     explanation = xgboost_explainer.predict_parts(data_test.iloc[[0]], type="shap")
@@ -49,8 +49,8 @@ if __name__ == '__main__':
         agg = c_explanation.result.groupby(by="variable")["contribution"].mean().sort_values(key=abs, ascending=False)
         candidate = agg.index[0].split(" = ")[0]
         if candidate != feature:
-            explanation.plot(show=False).write_image(f"figures/various_importance{data_test.index[0]}.png")
-            c_explanation.plot(show=False).write_image(f"figures/various_importance{ix}.png")
+            explanation.plot(show=False).write_image(f"resources/various_importance{data_test.index[0]}.png")
+            c_explanation.plot(show=False).write_image(f"resources/various_importance{ix}.png")
             break
 
     # generate SHAP explanation where same feature has +/- (omitted due to worst area 29 and 41)
@@ -59,4 +59,4 @@ if __name__ == '__main__':
     mlp_explainer = dx.Explainer(mlp_model, data_test, target_test)
     explanation = mlp_explainer.predict_parts(data_test.loc[[41]], type="shap")
     fig = explanation.plot(show=False)
-    fig.write_image(f"figures/shap_mlp_prediction41.png")
+    fig.write_image(f"resources/shap_mlp_prediction41.png")
