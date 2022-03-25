@@ -41,7 +41,7 @@ Plan for the summer semester 2021/2022. UoW classes are on Fridays.
 * 2022-03-18  -- Break Down / SHAP
 * 2022-03-25  -- LIME
 * 2022-04-01  -- Ceteris Paribus profiles / Partial Dependence profiles
-* 2022-04-08  -- **First checkpoint** - show your model and initial ideas for explanations!
+* 2022-04-08  -- **First checkpoint** - show your model and initial ideas for explanations! 10:00-12:00
 * 2022-04-22  -- Variable's importance
 * 2022-04-29  -- Interactive Explanatory Model Analysis - how instance level methods complement each other
 * 2022-05-04  -- Fairness or Model diagnostic plots.  
