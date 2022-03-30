@@ -8,7 +8,8 @@ Slack for this course: [invite link](https://join.slack.com/t/newworkspace-mwo27
 
 XAI stories ebook: 
 - first edition https://pbiecek.github.io/xai_stories/, 
-- second edition https://pbiecek.github.io/xai_stories_2/
+- second edition https://pbiecek.github.io/xai_stories_2/,
+- this edition https://github.com/pbiecek/xai_stories_3/
 
 Previous versions
 - https://github.com/pbiecek/InterpretableMachineLearning2021
